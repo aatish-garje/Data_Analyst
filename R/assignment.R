@@ -1,0 +1,6 @@
+x= c(1,5.6,3,10,3.5,5)
+print("Original vector-1:")
+print(x)
+rv = rev(x)
+print("The said vector in reverse order:")
+print(rv)
